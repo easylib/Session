@@ -1,0 +1,19 @@
+{
+    "name": "Easylib/Session",
+    "type": "library",
+    "version": "v2.0",
+    "authors": [
+        {
+            "name": "Kruemel",
+            "email": "kruemel@schredder.pw"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Easy\\Session\\": ""
+        }
+    }
+}
